@@ -1,0 +1,3 @@
+= Source Metadata website
+
+Sources and scripts to build https://sourcemetadata.org/ website.
