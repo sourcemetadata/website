@@ -1,0 +1,23 @@
+# SPDX-FileCopyrightText: ©  Basil Peace
+# SPDX-License-Identifier: CC0-1.0
+# Gradle
+.gradle/
+gradle.properties
+build/
+
+# IDEA User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries/
+
+# IDEA Legacy Project Format
+*.iws
+
+# IDEA Gradle
+*.iml
+.idea/**/gradle.xml
+out/
+
+# Bundler
+/.bundle/
